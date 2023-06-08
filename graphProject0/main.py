@@ -1,7 +1,7 @@
 print('Hello! this is python...')
 # This is a sample Python graph script.
 import tkinter as tk
-# отработка спаринга с GitHub'ом
+# tkinter as tk ONLY!
 
 def goWindow():
     window = tk.Tk()
