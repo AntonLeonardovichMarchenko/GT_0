@@ -1,2 +1,2 @@
 # GT_0
-&rt;&rt;&rt; graphics tests &lt;&lt;&lt;
+&lt;&lt;&lt; graphics tests &lt;&lt;&lt;
