@@ -4,13 +4,31 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
+print('Hello! this is python...')
+# This is a sample Python graph script.
+
+# =====================================================
+# *****************************************************
+# =====================================================
+
+import tkinter as tk
+
+def goWindow():
+    window = tk.Tk()
+    window.geometry('450x450')
+    window.title('примеры построения графиков')
+
+    window.mainloop()
+
 def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    goWindow()
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi('PyCharm graph script')
+
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
