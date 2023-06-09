@@ -1,0 +1,109 @@
+Index: ../graphTest1/.idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/../graphTest1/.idea/inspectionProfiles/profiles_settings.xml b/../graphTest1/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/../graphTest1/.idea/inspectionProfiles/profiles_settings.xml	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
++++ /dev/null	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: ../graphTest1/.idea/misc.xml
+===================================================================
+diff --git a/../graphTest1/.idea/misc.xml b/../graphTest1/.idea/misc.xml
+deleted file mode 100644
+--- a/../graphTest1/.idea/misc.xml	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
++++ /dev/null	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: ../graphTest1/.idea/graphProject1.iml
+===================================================================
+diff --git a/../graphTest1/.idea/graphProject1.iml b/../graphTest1/.idea/graphProject1.iml
+deleted file mode 100644
+--- a/../graphTest1/.idea/graphProject1.iml	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
++++ /dev/null	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../graphTest1/main.py
+===================================================================
+diff --git a/../graphTest1/main.py b/../graphTest1/main.py
+deleted file mode 100644
+--- a/../graphTest1/main.py	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
++++ /dev/null	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
+@@ -1,20 +0,0 @@
+-print('Hello! this is python...')
+-# This is a sample Python graph script.
+-import tkinter as tk
+-
+-def goWindow():
+-    window = tk.Tk()
+-    window.geometry('450x450')
+-    window.title('примеры построения графиков')
+-
+-    window.mainloop()
+-
+-def print_hi(name):
+-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+-    goWindow()
+-
+-
+-if __name__ == '__main__':
+-    print_hi('PyCharm graph script')
+-
+-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+Index: ../graphTest1/.idea/.gitignore
+===================================================================
+diff --git a/../graphTest1/.idea/.gitignore b/../graphTest1/.idea/.gitignore
+deleted file mode 100644
+--- a/../graphTest1/.idea/.gitignore	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
++++ /dev/null	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: ../graphTest1/.idea/modules.xml
+===================================================================
+diff --git a/../graphTest1/.idea/modules.xml b/../graphTest1/.idea/modules.xml
+deleted file mode 100644
+--- a/../graphTest1/.idea/modules.xml	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
++++ /dev/null	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/../graphTest1/.idea/graphProject1.iml" filepath="$PROJECT_DIR$/../graphTest1/.idea/graphProject1.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../graphTest1/.idea/vcs.xml
+===================================================================
+diff --git a/../graphTest1/.idea/vcs.xml b/../graphTest1/.idea/vcs.xml
+deleted file mode 100644
+--- a/../graphTest1/.idea/vcs.xml	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
++++ /dev/null	(revision 7286dff09fb36b2e8122203d8f160f2f5bd908e8)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
