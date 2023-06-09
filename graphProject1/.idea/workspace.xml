@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e062153c-b339-42b4-8e9a-3d78fd6d54e4" name="Changes" comment="this is graphProget1 1 2 3 4 5 6 7 8 9 ... 100">
-      <change afterPath="$PROJECT_DIR$/sinExamples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../graphProject2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../graphProject2/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -186,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686321556437</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="this is graphProget1 1 2 3 4 5 6 7 8 9 ... 100">
+      <created>1686324275820</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686324275820</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
